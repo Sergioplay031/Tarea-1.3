@@ -1,0 +1,80 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
+
+.horario {
+    text-align: center; 
+    padding-top: 5px;
+    position: relative;
+    background-color: #b1f3fd;
+    border: 1px solid #87b9c1;
+}
+
+.grupo2, .celda1, .celda2, .celda3, .celda4, .celda5  {
+    padding-top: 5px;
+    position: relative;
+    height: 25px;
+    background-color: #d7d7d7;
+    border: 1px solid #cac8c8 ;
+}
+
+.hora {
+    width: 80px;
+    height: 60px;
+    padding-top: 5px;
+    position: relative;
+    background-color: #fdf4f4;
+    border: 1px solid #dadada;
+}
+
+.segu {
+    height: 25px;
+    padding-top: 5px;
+    position: relative;
+    background-color: #64b7fc;
+    border: 1px solid #5399d4;
+}
+.servi {
+    padding-top: 5px;
+    position: relative;
+    height: 25px;
+    background-color: #ffc367;
+    border: 1px solid #d4a153;
+}
+.sist {
+    padding-top: 5px;
+    position: relative;
+    height: 25px;
+    background-color: #8cff67;
+    border: 1px solid #72cd55;
+}
+.emp {
+    padding-top: 5px;
+    position: relative;
+    height: 25px;
+    background-color: #6afdad;
+    border: 1px solid #55cd8b;
+}
+.web {
+    padding-top: 5px;
+    position: relative;
+    height: 25px;
+    background-color: #ad6afd;
+    border: 1px solid #8852ca;
+}
+.recreo {
+    padding-top: 5px;
+    position: relative;
+    height: 25px;
+    background-color: #f5f4f0;
+    border: 1px solid #cacac6;
+}
